@@ -393,7 +393,7 @@ const App = () => {
         </div>
       </div>
       
-      <div className="text-[10px] text-slate-400 text-center italic mt-8 border-t border-slate-200 pt-4">
+<div className="text-[10px] text-slate-400 text-center italic mt-8 border-t border-slate-200 pt-4">
         Simulation Logic based on Virtual Biology Lab | Copyright © Virtual Biology Lab
       </div>
     </div>
